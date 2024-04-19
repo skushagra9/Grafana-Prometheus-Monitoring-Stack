@@ -1,4 +1,4 @@
-## Prometheus Graphana Monitoring Stack
+## Graphana Prometheus Monitoring Stack
 
 Grafana Prometheus Monitoring Stack is a robust monitoring solution designed to empower developers and operators with deep insights into their applications' performance and health. This stack combines the power of Grafana for intuitive visualization, Prometheus for comprehensive metrics monitoring, and Grafana Loki for efficient log monitoring. With customizable dashboards, alerting capabilities, and historical data analysis, this stack enables you to proactively monitor, analyze, and optimize your system's performance, ensuring seamless operations and enhanced user experience.
 
@@ -22,7 +22,7 @@ If you want to learn more about this project or have any questions, send me an e
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/skushagra9/Prometheus-Graphana-Monitoring-Stack.git
+   git clone [https://github.com/skushagra9/Prometheus-Graphana-Monitoring-Stack.git](https://github.com/skushagra9/Grafana-Prometheus-Monitoring-Stack.git)
    ```
 
 2. Install dependencies
